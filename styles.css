@@ -11,7 +11,7 @@ body {
   background-color: hsl(185, 75%, 39%);
   background-image: url(images/bg-pattern-top.svg),
     url(images/bg-pattern-bottom.svg);
-  background-position: -295px -502px, 720px 457px;
+  background-position: -295px -502px, 611px 457px;
   background-repeat: no-repeat;
   display: flex;
   align-items: center;
